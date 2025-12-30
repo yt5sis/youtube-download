@@ -110,7 +110,7 @@ const IndexPage = () => {
                 </div>
             </div>
             <footer>
-                <p> © 2025 <a href="AAAA">BBB</a></p>
+                <p> © 2025 <a href="https://youtube-download.pages.dev/">YouTube Download</a></p>
             </footer>
         </>
     );
